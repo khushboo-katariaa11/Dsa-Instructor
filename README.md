@@ -72,7 +72,7 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](dsa&nbsp;instructor.png)
+![Home Page](ds1.png)
 
 ### Features Section
 ![Features](dsa2.png)
